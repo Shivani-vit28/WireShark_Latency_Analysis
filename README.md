@@ -44,7 +44,3 @@ A Python script was used to analyze the captured packet data and generate latenc
 - Medium traffic introduces moderate variability  
 - High traffic results in frequent fluctuations
 - Most packets have low latency, but a few significantly affect overall performance
-
-
-
-1. Install required libraries:
