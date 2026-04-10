@@ -42,8 +42,9 @@ A Python script was used to analyze the captured packet data and generate latenc
 - Latency does not increase strictly in a linear manner with traffic load  
 - Low traffic can still produce occasional high latency spikes  
 - Medium traffic introduces moderate variability  
-- High traffic results in frequent fluctuations  
-- Most packets have low latency, but a few significantly affect overall performance  
+- High traffic results in frequent fluctuations
+- Most packets have low latency, but a few significantly affect overall performance
+
 
 
 1. Install required libraries:
